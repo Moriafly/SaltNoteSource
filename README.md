@@ -41,6 +41,20 @@
 - **快捷预览 Markdown**
 滑动即可实时预览 Markdown 渲染，并支持双向滚动保持一致，方便进行文本调整。
 
+## 优秀的 Markdown 编辑
+
+![Pad](./src/screen_phone.png)
+
+- 支持 **Markdown** 标记文本。
+- 支持多种语法的标记**高亮**
+- 工具栏快捷 Markdown 输入
+
+## 强大的 Markdown 渲染
+
+支持几乎所有的 Markdown 元素渲染，包括**高亮代码**、 **Katex 数学公式**、**甘特图**等等。
+
+![PowerMarkdown](./src/power_markdown.png)
+
 ## 静心创作
 
 - **不打扰用户**
@@ -48,14 +62,6 @@
 
 - **个性化**
 尽量首先为用户做选择并尽力提供可供用户选择的功能。
-
-## 优秀的 Markdown 渲染
-
-![Pad](./src/screen_phone.png)
-
-- 支持 **Markdown** 标记文本。
-- 支持多种语法的标记**高亮**
-- 工具栏快捷 Markdown 输入
 
 ## 属于你的文件
 
